@@ -1,5 +1,5 @@
-### VSC course
-Main purpose of this repository is saving projects of course [Neural Networks and Evolution Method](https://www.fme.vutbr.cz/en/studenti/predmety/215503). 
+### Neural Networks and Evolution Method
+Main purpose of this repository is saving projects of [VSC](https://www.fme.vutbr.cz/en/studenti/predmety/215503) course. 
 
 Course aims: The course objective is to make students familiar with basic resources of Soft Computing, potential and adequacy of their use in engineering problems solving.
 
