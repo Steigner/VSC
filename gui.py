@@ -67,7 +67,7 @@ app.layout = html.Div([
             buttons and inputs will be disturbing. This will be maybe in future debuged. The basckground theme is default Dash open-source, but can be change for example [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/docs/).
             
             Author - Martin Juricek
-            [github](https://github.com/Steigner)
+            [github](https://github.com/Steigner/VSC)
 
             ** About course **
 
