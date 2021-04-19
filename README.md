@@ -8,3 +8,6 @@ Repository contain 2 main folders:
 * project_ANN_classifier: in folder is located project: **Simple ANN classifier**, this project is programmed in python3 with using libraries Keras, Plotly Dash, Numpy. More specific description is in standalone scripts. Below you can see fast video introduction to project ANN classifier.
 
 https://user-images.githubusercontent.com/54715463/115224793-9c11ef80-a10d-11eb-92b4-fb1a1cdbf2ad.mp4
+
+### References
+* [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
