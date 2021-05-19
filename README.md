@@ -10,7 +10,7 @@ Repository contain 2 main folders:
 https://user-images.githubusercontent.com/54715463/115224793-9c11ef80-a10d-11eb-92b4-fb1a1cdbf2ad.mp4
 
 ### Updates
-* v1.01 comming soon - optimizing some piece of codes ... 
+* v1.01 comming soon - optimizing some piece of codes and comments ... 
 
 ### References
 * [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
